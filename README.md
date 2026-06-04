@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 -  I’m currently working on a passion project called mikan.io, we'll see how it is when it is.
 -  I’m currently learning Engineering, Physics, and Atmospheric Science
 -  Ask me about anything! I'm pretty responsive.
